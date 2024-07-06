@@ -10,13 +10,19 @@ Leggo
 
 git clone:
 
-````git clone https://github.com/ellalearns/aurora-db.git````
+````
+git clone https://github.com/ellalearns/aurora-db.git
+````
 
 enter into main directory:
 
-````cd aurora-db````
+````
+cd aurora-db
+````
 
 run the following line:
 
-````cat setup_test_db.sql | sudo mysql````
+````
+cat setup_test_db.sql | sudo mysql
+````
 
